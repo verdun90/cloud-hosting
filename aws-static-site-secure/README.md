@@ -8,6 +8,7 @@ This project demonstrates a secure, cloud-native approach to hosting a static we
 - Amazon CloudFront (CDN)
 - Origin Access Control (OAC)
 - AWS Certificate Manager (ACM)
+- ![Architecture Diagram](architecture/diagram.png)
 
 ## Security Considerations
 - S3 bucket is not publicly accessible
